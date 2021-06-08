@@ -1,6 +1,6 @@
 numpy==1.16.2
 tensorflow==1.14.0
 requests==2.21.1
-Pillow==3.1.2
+Pillow==8.2.0
 opencv-python==4.1.0.25
 flask==1.1.2
